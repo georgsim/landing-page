@@ -1,15 +1,5 @@
 {
-    "name": "landing-page",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "express": "^4.21.2"
-    }
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
